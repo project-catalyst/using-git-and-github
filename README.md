@@ -12,7 +12,7 @@ The first few lessons are focused on the software that all developers use, and t
 
 ## Lessons
 1. [Using a Command Line Interface](https://github.com/project-catalyst/using-a-cli) (10-15 minutes)
-1. [Installing Homebrew](https://github.com/project-catalyst/overview) (? minutes)
+1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (5-10 minutes)
 1. [Running a JavaScript Program](https://github.com/project-catalyst/overview) (? minutes)
 1. [Using Git and GitHub](https://github.com/project-catalyst/overview) (? minutes)
 1. [Intro to JavaScript](https://github.com/project-catalyst/overview) (? minutes)
